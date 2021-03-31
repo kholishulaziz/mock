@@ -1,0 +1,35 @@
+{
+  "message": "success",
+  "body": {
+    "data": [
+      {
+        "memberId": 50,
+        "employeeId": 0,
+        "employeeAzureId": "963aa9f8-5632-46fb-a3d5-af082c706008",
+        "employeeName": "Kasyfillah Haidi Bysr",
+        "divCode": null,
+        "gradeCode": null,
+        "email": null,
+        "createdDate": "2021-03-05T01:32:01.879+00:00",
+        "updatedDate": "2021-03-05T01:32:01.879+00:00",
+        "status": "New",
+        "teamRole": {
+          "id": 1,
+          "teamRole": "Team Member"
+        },
+        "bootcamp": null,
+        "team": {
+          "id": 57,
+          "teamName": "The Java"
+        },
+        "bootcampStatus": "CHANGED",
+        "teamStatus": "ONGOING",
+        "assignDate": "2021-03-05T01:32:01.879+00:00",
+        "releaseDate": "2021-03-05T01:32:01.879+00:00",
+        "startDate": "2021-03-05T01:32:01.879+00:00",
+        "endDate": "2021-03-05T01:32:01.879+00:00"
+      }
+    ]
+  },
+  "errors": null
+}
